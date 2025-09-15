@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Video Scene Generator",
+  "description": "An AI-powered platform to generate video storyboards. Input an idea to create scenes with AI-generated start/end frames and dynamic suggestions for transitions, effects, and camera work, mimicking a professional video editing workflow.",
+  "requestFramePermissions": []
+}
